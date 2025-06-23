@@ -4,4 +4,5 @@ import "github.com/trobukan/learning-go/examples"
 
 func main () {
 	examples.Conditionals()
+	examples.Functions()
 }
