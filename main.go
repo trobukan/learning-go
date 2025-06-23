@@ -10,4 +10,6 @@ func main () {
 	examples.Slices()
 	examples.Maps()
 	examples.For()
+	examples.Range()
+	
 }
