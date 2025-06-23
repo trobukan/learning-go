@@ -6,4 +6,7 @@ func main () {
 	examples.Conditionals()
 	examples.Functions()
 	examples.TypeCasting()
+	examples.Arrays()
+	examples.Slices()
+	examples.Maps()
 }
