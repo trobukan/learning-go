@@ -12,4 +12,5 @@ func main () {
 	examples.For()
 	examples.Range()
 	examples.Structs()
+	examples.ErrorHandler()
 }
