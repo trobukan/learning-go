@@ -13,4 +13,5 @@ func main () {
 	examples.Range()
 	examples.Structs()
 	examples.ErrorHandler()
+	examples.CustomErrors()
 }
