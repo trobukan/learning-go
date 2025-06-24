@@ -11,5 +11,5 @@ func main () {
 	examples.Maps()
 	examples.For()
 	examples.Range()
-	
+	examples.Structs()
 }
